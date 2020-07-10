@@ -1,0 +1,3 @@
+Need good resolution images to perform document scanning.
+
+As we don't have that much good resolution camera, we've used the guide's image for working and testing.
